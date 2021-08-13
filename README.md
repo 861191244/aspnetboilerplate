@@ -1,4 +1,8 @@
-﻿# ASP.NET Boilerplate
+
+ASP.NET Boilerplate — Web应用程序框架
+ASP.NET Boilerplate是专门为新的现代Web应用程序设计的通用应用程序框架。它使用已经熟悉的工具并围绕它们实施最佳实践，以为您提供SOLID开发经验。
+
+# ASP.NET Boilerplate
 
 [![Build Status](http://ci.volosoft.com:5480/job/aspnet-boilerplate-nightly/badge/icon)](http://ci.volosoft.com:5480/blue/organizations/jenkins/aspnet-boilerplate-nightly/activity)
 [![NuGet](https://img.shields.io/nuget/v/Abp.svg?style=flat-square)](https://www.nuget.org/packages/Abp)
