@@ -1,6 +1,11 @@
-
 ASP.NET Boilerplate — Web应用程序框架
 ASP.NET Boilerplate是专门为新的现代Web应用程序设计的通用应用程序框架。它使用已经熟悉的工具并围绕它们实施最佳实践，以为您提供SOLID开发经验。
+
+https://github.com/aspnetboilerplate/aspnetboilerplate
+
+https://aspnetboilerplate.com/
+
+https://aspnetboilerplate.com/Pages/Documents/Multi-Tenancy
 
 # ASP.NET Boilerplate
 
